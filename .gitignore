@@ -162,3 +162,4 @@ pip-log.txt
 # Mac crap
 .DS_Store
 /MABD/nbproject/private/
+/InsertarDatosMySql/nbproject/private/

@@ -14,7 +14,7 @@ public class Interfaz extends javax.swing.JFrame {
     Statement stmt;
     ResultSet retset;
     Connection conexion;
-    String miconsulta = new String("");
+    String miconsulta = new String("");//SELECT cliente,nombcliente, calle,ciudad FROM clientes_reltab
 
     public Connection abreConexion(String driver, String servidor, String usuario, String clave) {
         try {
